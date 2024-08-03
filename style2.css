@@ -38,7 +38,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-padding: 15px;
+padding: 5px;
 color: black;
 display: block;
 }
@@ -52,20 +52,22 @@ background:#000;
    margin-top: 160px;
 }
 
-.jk {
-padding-left: 20px;
-}
-
 .ti {
-padding-left: 900px;
-margin-top: -200px;
+text-align: center;
 }
 
 .m {
-padding-left: 450px;
-margin-top: -195px;
+    text-align: center;
 }
 
+.jk {
+    text-align: center;
+}
 .er {
-    color: #929292;
+    color: #000000;
+    text-align: center;
+}
+
+.hy {
+    text-align: center;
 }
